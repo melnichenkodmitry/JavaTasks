@@ -24,9 +24,6 @@ hs_err_pid*
 replay_pid*
 /.idea/
 /out/
-/task9/
-/task10/
-/task11/
 /conv10to8/
 /conv10to2/
 /conv10to16/
@@ -52,3 +49,4 @@ replay_pid*
 /output_elements_backwards/
 /array_copy/
 /houses/
+/array_replacement/
