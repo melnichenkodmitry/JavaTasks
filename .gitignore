@@ -24,8 +24,6 @@ hs_err_pid*
 replay_pid*
 /.idea/
 /out/
-/task6/
-/task7/
 /task8/
 /task9/
 /task10/
@@ -51,3 +49,4 @@ replay_pid*
 /amount_of_numbers/
 /multiplication_table/
 /triangle/
+/sum_of_numbers/
