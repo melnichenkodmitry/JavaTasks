@@ -24,8 +24,6 @@ hs_err_pid*
 replay_pid*
 /.idea/
 /out/
-/task2/
-/task3/
 /task4/
 /task5/
 /task6/
@@ -51,3 +49,4 @@ replay_pid*
 /sort_even_numbers_from_a_file/
 /change_age/
 /apples_sum/
+/cats_count/
