@@ -23,9 +23,8 @@
 hs_err_pid*
 replay_pid*
 /.idea/
-/task1/
-/task2/
 /out/
+/task2/
 /task3/
 /task4/
 /task5/
@@ -50,3 +49,4 @@ replay_pid*
 /the_longest_sequence/
 /ints_and_strings/
 /sort_even_numbers_from_a_file/
+/change_age/
